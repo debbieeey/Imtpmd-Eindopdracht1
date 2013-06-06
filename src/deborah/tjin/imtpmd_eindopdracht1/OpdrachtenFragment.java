@@ -1,5 +1,6 @@
 package deborah.tjin.imtpmd_eindopdracht1;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -28,20 +29,39 @@ public class OpdrachtenFragment extends Fragment
 	}
 	
 	
+=======
+import android.support.v4.app.Fragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+
+public class OpdrachtenFragment extends Fragment 
+{
+	
+
+	public OpdrachtenFragment(){	
+	}
+	
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 	public void onCreate(Bundle savedInstanceState) 
 	{
 		super.onCreate(savedInstanceState);
 
 	}
 	
+<<<<<<< HEAD
 	
 	//Deze methode zorgt er voor dat de inhoud van de xml zichtbaar 
 	//wordt in de app
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) 
 	{
 		View rootView = inflater.inflate(R.layout.opdrachten_tab,
 				container, false);
+<<<<<<< HEAD
 		
 		ListView listView = (ListView) rootView.findViewById( R.id.listView1 );
 		
@@ -64,11 +84,14 @@ public class OpdrachtenFragment extends Fragment
         arrayAdapter.notifyDataSetChanged();
         
         listView.setAdapter(arrayAdapter);
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 
 		return rootView;
 	}
 
 
+<<<<<<< HEAD
 	public void shareData(String string) 
 	{
 		
@@ -89,6 +112,8 @@ public class OpdrachtenFragment extends Fragment
 	}
 
 
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 }
 
 

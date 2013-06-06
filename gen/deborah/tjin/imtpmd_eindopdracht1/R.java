@@ -8,9 +8,12 @@
 package deborah.tjin.imtpmd_eindopdracht1;
 
 public final class R {
+<<<<<<< HEAD
     public static final class array {
         public static final int graad_array=0x7f060000;
     }
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
     public static final class attr {
     }
     public static final class dimen {
@@ -27,6 +30,7 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
+<<<<<<< HEAD
         public static final int LinearLayout1=0x7f090001;
         public static final int action_settings=0x7f090014;
         public static final int button1=0x7f090013;
@@ -57,6 +61,33 @@ public final class R {
     }
     public static final class menu {
         public static final int main=0x7f080000;
+=======
+        public static final int LinearLayout1=0x7f080001;
+        public static final int action_settings=0x7f080010;
+        public static final int button1=0x7f080003;
+        public static final int editText1=0x7f080006;
+        public static final int editText2=0x7f080009;
+        public static final int editText3=0x7f08000c;
+        public static final int editText4=0x7f08000f;
+        public static final int pager=0x7f080000;
+        public static final int section_label=0x7f080002;
+        public static final int tableRow1=0x7f080004;
+        public static final int tableRow2=0x7f080007;
+        public static final int tableRow3=0x7f08000a;
+        public static final int tableRow4=0x7f08000d;
+        public static final int textView1=0x7f080005;
+        public static final int textView2=0x7f080008;
+        public static final int textView3=0x7f08000b;
+        public static final int textView4=0x7f08000e;
+    }
+    public static final class layout {
+        public static final int activity_main=0x7f030000;
+        public static final int opdrachten_tab=0x7f030001;
+        public static final int verzenden_tab=0x7f030002;
+    }
+    public static final class menu {
+        public static final int main=0x7f070000;
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
@@ -87,10 +118,18 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
+<<<<<<< HEAD
         public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f070001;
+=======
+        public static final int AppBaseTheme=0x7f060000;
+        /**  Application theme. 
+ All customizations that are NOT specific to a particular API-level can go here. 
+         */
+        public static final int AppTheme=0x7f060001;
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
     }
 }

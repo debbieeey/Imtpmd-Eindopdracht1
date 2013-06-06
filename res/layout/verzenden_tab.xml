@@ -8,7 +8,11 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+<<<<<<< HEAD
     android:background="#CCCDFF"
+=======
+    android:background="#AED6EA"
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
     tools:context=".MainActivity$DummySectionFragment" >
 
     <TextView
@@ -57,8 +61,12 @@
                 android:id="@+id/editText2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+<<<<<<< HEAD
                 android:ems="10"
                 android:text="/opdrachten" />
+=======
+                android:ems="10" />
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 
         </TableRow>
 

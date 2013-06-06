@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+<<<<<<< HEAD
 /**
  * 
  * @author Deborah Tjin
@@ -16,6 +17,11 @@ import android.view.ViewGroup;
 public class VerzendenFragment extends Fragment
 {
 	//constructor
+=======
+
+public class VerzendenFragment extends Fragment
+{
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 	public VerzendenFragment(){	
 	}
 	
@@ -27,8 +33,11 @@ public class VerzendenFragment extends Fragment
 	}
 	
 	
+<<<<<<< HEAD
 	//Deze methode zorgt er voor dat de inhoud van de xml zichtbaar 
 	//wordt in de app
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) 
 	{
@@ -38,6 +47,7 @@ public class VerzendenFragment extends Fragment
 		return rootView;
 	}
 
+<<<<<<< HEAD
 
 	public void setReceivedServerMessage(String string) 
 	{
@@ -46,6 +56,8 @@ public class VerzendenFragment extends Fragment
 		
 	}
 
+=======
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
 	
 
 	
