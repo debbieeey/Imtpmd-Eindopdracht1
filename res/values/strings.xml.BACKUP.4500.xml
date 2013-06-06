@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Imtpmd_eindopdracht1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+<<<<<<< HEAD
+    
+    <string-array name="graad_array">
+        <item>Moeilijk</item>
+        <item>Makkelijk</item>
+	</string-array>
+	
+=======
+
+>>>>>>> b3a7a9e8eae374480cbdfb20d739ed5b23f0bfb6
+</resources>

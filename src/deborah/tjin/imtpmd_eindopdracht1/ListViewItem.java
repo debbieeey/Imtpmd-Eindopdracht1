@@ -1,5 +1,8 @@
 package deborah.tjin.imtpmd_eindopdracht1;
 
+//In deze klasse worden variabelen naam en id 
+//aangemaakt en deze worden gebruikt in de ArrayList
+//van een andere klasse
 public class ListViewItem 
 {
 
